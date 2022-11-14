@@ -1,2 +1,2 @@
-# Airbnb-Data-Analysis
-EDA
+# Airbnb-Booking-Analysis
+Airbnb Booking is an online platform for booking of entire house/apartment, shared rooms and private rooms. The Airbnb booking Dataset contains data about property id, property name, neighbourhood, neighbourhood groups, minimum nights spent, reviews per month, price of the property, room types and also contains the location of the property including latitude and longitude. In this project we will do Data Cleaning, Exploratory Data Analysis using Python to get the insight from the data and at the end will give conclusions and suggestions also.
